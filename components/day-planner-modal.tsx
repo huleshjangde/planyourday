@@ -107,6 +107,7 @@ export function DayPlannerModal() {
             </div>
           </div>
           <DialogFooter>
+            <Button type="button" variant="outline" onClick={() => setOpen(false)}>Cancel</Button>
             <Button type="submit">Save Plan</Button>
           </DialogFooter>
         </form>
