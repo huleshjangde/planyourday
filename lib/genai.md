@@ -11,6 +11,7 @@
 - Fine-tune the language model for specific use case
 - Experiment with hyperparameters
 - Document changes and improvements
+- Document changes and improvements
 
 ### 10:30 AM - 11:00 AM: Break
 - Quick coffee break
